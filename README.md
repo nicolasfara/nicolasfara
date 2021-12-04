@@ -11,13 +11,13 @@ Master student in computer science at University of Bologna.
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfara)](https://github.com/anuraghazra/github-readme-stats)  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfara)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasfara&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nicolasfara&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfara)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nicolasfara&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasfara&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfara)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
