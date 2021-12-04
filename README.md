@@ -1,6 +1,6 @@
 # Nicolas Farabegoli
 
-Master student in computer science at University of Bologna.
+Master student in Computer Science at University of Bologna.
 
 ## Contacts
 
