@@ -4,8 +4,8 @@ Master student in Computer Science at University of Bologna.
 
 ## Contacts
 
- - email: nicolas.farabegoli@gmail.com
- - site: [nicolasfarabegoli.it](https://nicolasfarabegoli.it)
+ - Email: nicolas.farabegoli@gmail.com
+ - Site: [nicolasfarabegoli.it](https://nicolasfarabegoli.it)
 
 ## Code stats
 
