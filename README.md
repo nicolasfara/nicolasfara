@@ -17,7 +17,7 @@ Master Student in Computer Science at University of Bologna - Cesena campus.
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=nicolasfara&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfara&langs_count=8&layout=compact&hide=html,css,scss&exclude_repo=dirac-operator,bd-lab-21-22)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfara&langs_count=8&layout=compact&hide=html,css,scss,jupyter%20notebook&exclude_repo=dirac-operator,bd-lab-21-22)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
