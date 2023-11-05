@@ -1,6 +1,6 @@
 # Nicolas Farabegoli
 
-Master Student in Computer Science at University of Bologna - Cesena campus.
+PhD student in Computer Science and Engineering at the University of Bologna - Cesena campus.
 
 ## Contacts
 
