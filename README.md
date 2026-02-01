@@ -1,37 +1,52 @@
-# Nicolas Farabegoli
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-PhD student in Computer Science and Engineering at the University of Bologna - Cesena campus.
-
-## Contacts
-
- - Email: nicolas.farabegoli@gmail.com
- - Site: [nicolasfarabegoli.it](https://nicolasfarabegoli.it)
-
-## Code stats
-
-<div align="center">
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfara)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasfara&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=nicolasfara&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfara&langs_count=8&layout=compact&hide=typescript,php,html,css,scss,jupyter%20notebook&exclude_repo=dirac-operator,bd-lab-21-22)](https://github.com/anuraghazra/github-readme-stats)
-  
+<!-- <div align="center">
+    <img src="assets/cover.svg" />
 </div>
 
-<!--
-**nicolasfara/nicolasfara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/> -->
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="35%">
+    <br/>
+    <img src="assets/portrait.jpg" width="200" style="border-radius: 50%; border: 4px solid #0366d6;" />
+</td>
+<td width="65%" valign="top">
+    <h2><i class="fas fa-user"></i> About Me</h2>
+    <p>
+        Researcher and software engineer with experience in aggregate computing, edge-cloud continuum, and open-source development. Published over 10 papers in international conferences and journals. Lead developer of multiple frameworks and platforms for distributed and embedded systems.
+    </p>
+    
+   <h3><i class="fas fa-briefcase"></i> Skills</h3>
+    <ul>
+        <li><i class="fas fa-code"></i>
+            High experience in <b>Scala</b>, <b>Kotlin</b>, <b>Java</b>, and <b>Rust</b>. Proficient in <b>JavaScript</b>, <b>TypeScript</b>, and <b>Python</b>
+        </li>
+        <li><i class="fas fa-tools"></i>
+            Widely experienced with <b>Git</b>, <b>Gradle</b>, <b>GitHub Actions</b>
+        </li>
+        <li><i class="fas fa-microchip"></i>
+            Experience with embedded systems using <b>Raspberry Pi</b>, <b>Arduino</b>, <b>ESP32</b>, and <b>STM32</b>
+        </li>
+        <li><i class="fas fa-cloud"></i>
+            Experience with <b>Docker</b>, <b>Kubernetes</b>, <b>Portainer</b>, and <b>Proxmox</b>
+        </li>
+    </ul>
+    
+   <h3><i class="fas fa-envelope"></i> Contact</h3>
+    <ul>
+        <li><i class="fas fa-envelope"></i> Email: <a href="mailto:nicolas.farabegoli@gmail.com">nicolas.farabegoli@gmail.com</a>
+        </li>
+        <li><i class="fab fa-linkedin"></i> LinkedIn: <a href="https://linkedin.com/in/nfarabegoli">linkedin.com/in/nfarabegoli</a></li>
+        <!-- <li><i class="fab fa-twitter"></i> Twitter: <a href="https://twitter.com/yourhandle">@yourhandle</a></li> -->
+        <li><i class="fas fa-globe"></i> Website: <a href="https://nicolasfarabegoli.it">nicolasfarabegoli.it</a></li>
+    </ul>
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
